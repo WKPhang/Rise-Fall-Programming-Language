@@ -1,4 +1,4 @@
-# Rise_Fall_Programming_Language
+# Rise-Fall-Programming-Language
 Data visualization of rise and fall of programming language
 
 ## Introduction
